@@ -1,4 +1,4 @@
-#[Today I learned (TIL) on DataScience] 
+#Today I learned (TIL) on DataScience 
 
 ###Objectives
 - 셀프 스터디 및 레퍼런스 저장
