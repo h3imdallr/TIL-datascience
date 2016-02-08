@@ -5,5 +5,5 @@
 
 ###Contents
 - [Basic Statistics (on progress)](https://github.com/h3imdallr/TIL-datascience/blob/master/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
-- [DataPreparation (on progress)](https://github.com/h3imdallr/TIL-datascience/blob/master/DataWrangling.ipynb): Loading, Cleaning, Transforming and Rearranging 
+- [DataPreparation (on progress)](https://github.com/h3imdallr/TIL-datascience/blob/master/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
 
