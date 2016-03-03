@@ -14,7 +14,7 @@
 ####MOOCs:
 - Machine Learning, AndrewNg
 - elice.io
-- Intro to DataAnalysis
+- Intro to DataAnalysis  
     [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/IntroDA_L1.ipynb)  
     Lecture2:  
     Lecture3:  
