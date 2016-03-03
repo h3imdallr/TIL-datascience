@@ -7,14 +7,18 @@
 ###Contents
 
 #### Books: 
-- [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/Basic%20Statistics.ipynb): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
-- [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
-- [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/GroupOperation.ipynb) (On Progress):
+- [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
+- [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
+- [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
 ####MOOCs:
 - Machine Learning, AndrewNg
 - elice.io
 - Intro to DataAnalysis
+    [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/IntroDA_L1.ipynb)
+    Lecture2:
+    Lecture3:
+
 - Machine Learing, Michael Littman
 - Deep Learning, google
 
