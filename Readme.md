@@ -5,6 +5,7 @@
 - 셀프스터디 히스토리 기록
 
 ###Contents
+
 #### Books: 
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/Basic%20Statistics.ipynb): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
 - [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
@@ -16,3 +17,7 @@
 - Intro to DataAnalysis
 - Machine Learing, Michael Littman
 - Deep Learning, google
+
+#### Others:
+- data science workflow(on progress)
+![workflow](images/analysisprocedure-v1.0.png)
