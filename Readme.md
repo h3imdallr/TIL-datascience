@@ -23,7 +23,7 @@
 - Deep Learning, google
 
 #### CheatSheets:
-[Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+- [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 
 #### Others:
 - data science workflow(on progress)
