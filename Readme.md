@@ -25,7 +25,3 @@
 #### Others:
 - data science workflow(on progress)
 ![workflow](images/analysisprocedure-v1.0.png)
-
-#### CheatSheet:
-- [scrap: bsweger/useful_pandas_snippets.py](https://gist.github.com/bsweger/e5817488d161f37dcbd2) 
-- []()
