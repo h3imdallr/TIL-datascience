@@ -27,4 +27,5 @@
 ![workflow](images/analysisprocedure-v1.0.png)
 
 #### CheatSheet:
-- [test](https://gist.github.com/bsweger/e5817488d161f37dcbd2) 
+- [scrap: bsweger/useful_pandas_snippets.py](https://gist.github.com/bsweger/e5817488d161f37dcbd2) 
+- []()
