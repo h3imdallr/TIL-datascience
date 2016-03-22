@@ -15,9 +15,9 @@
 - Machine Learning, AndrewNg
 - elice.io/KAIST MachineLearning Online Course(interactive coding)
 - Intro to DataAnalysis/Udacity  
-    1. [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/IntroDA_L1.ipynb)  
-    2. Lecture2:  
-    3. Lecture3:  
+    1. [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L1_Starter_Code_ymjung.ipynb)  
+    2. [Lecture2: Numpy Pandas 1D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L2_NumpynPandas_for_1D.ipynb)
+    3. [Lecture3: Numpy Pandas 2D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L3_NumpynPandas_for_2D.ipynb)
 
 - Machine Learing, Michael Littman
 - Deep Learning, google
