@@ -22,8 +22,8 @@
 - Machine Learing, Michael Littman
 - Deep Learning, google
 
-#### CheatSheets:
-- [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+#### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+#### StudySource: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/studysource)
 
 #### Others:
 - data science workflow(on progress)
