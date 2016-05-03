@@ -1,4 +1,5 @@
-#Good References for ML/DeepL Study
+Good References for ML/DeepL Study
+나와 같은 Noob에게 좋은 양질의 소스들.
 
 ## CS for DataScience: Python,Scala,Spark,Hadoop
 - (Python/MOOC)Intro to DataAnalysis, Udacity
