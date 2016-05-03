@@ -1,10 +1,10 @@
 #Today I learned (TIL) on DataScience 
 
-###Objectives
+###<Objectives>
 - 셀프스터디 자료 정리 및 재참조
 - 셀프스터디 히스토리 기록
 
-### Contents
+###<Contents>
 
 #### Books- ipynb 정리: 
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
