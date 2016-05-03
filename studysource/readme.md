@@ -1,12 +1,15 @@
 #Good References for ML/DeepL Study
 
-## CS(python,Scala,Spark,Hadoop) for DataScience
-
+## CS for DataScience: Python,Scala,Spark,Hadoop
+- (Python/MOOC)Intro to DataAnalysis, Udacity
+- (Scala/Book)Functional Programming in Scala
+- (Scala/Tut)ScalaSchool by Twitter
 
 ## ML General
 - (MOOC)MachineLearning, AndreNg, Coursera
 - (MOOC)MachineLearning, Michael Littman, Udacity
 - (MOOC)Intro to DataScience, Udacity
+- [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 
 ## DeepLearning
 (Low Hurdle)
