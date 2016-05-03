@@ -15,7 +15,7 @@ __Note: Good References for ML/DeepL Study__
 ## DeepLearning
 (Low Hurdle)
 - (MOOC)DeepLearning, google, Udacity
-- [(Blog) READ ME](http://sanghyukchun.github.io)
+- [(Blog) README, 전상혁@KAIST ](http://sanghyukchun.github.io)
 - [(MOOC)모두를 위한 머신러닝/딥러닝, Sung Kim](http://hunkim.github.io/ml/)
 - [(Blog/Community)AI KOREA, blogs](http://aikorea.org/blog/)
 - [(Blog/Community)AI KOREA, cs231n-ko](http://aikorea.org/cs231n/)
