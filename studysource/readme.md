@@ -24,11 +24,11 @@
 - [(Tut)UFLDL Tutorial,Stanford](http://ufldl.stanford.edu/tutorial/)
 - [(Tut)DeepLearning.net](http://deeplearning.net/tutorial/)
 - [(Blog)NeuralNetworks and DeepLearning](http://neuralnetworksanddeeplearning.com/index.html)
-- 
+
 (TensorFlow)
 - [(Tut)CS224d/TensorFlow Tutorial](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 - [(Tut/Book)First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
-- 
+
 (Topic Specific)
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
 - [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KO version](http://whydsp.org/280)
