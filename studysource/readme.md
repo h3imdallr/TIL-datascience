@@ -36,6 +36,7 @@ __Note: Good References for ML/DeepL Study__
 (TensorFlow)
 - [(Tut)CS224d/TensorFlow Tutorial](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 - [(Tut/Book)First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
+- [(Post)TensorFlow 시작하기, 김정주](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 - [(Tut/Blog)khanrc 블로그, TensorFlow-ko](http://khanrc.tistory.com/entry/TensorFlow-1-Intro)
 
 (Topic Specific)
