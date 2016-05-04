@@ -38,6 +38,7 @@ __Note: Good References for ML/DeepL Study__
 - [(Tut/Book)First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/)
 - [(Post)TensorFlow 시작하기, 김정주](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 - [(Blog/Community)TensorFlow 튜토리얼, TensorFlow Korea](https://tensorflowkorea.wordpress.com/2015/12/04/텐서플로우-튜토리얼-1/)
+- [(Blog/Community)First Contanct with TensorFlow -ko, TensorFlow Korea ](https://tensorflowkorea.wordpress.com/2016/04/28/first-contact-with-tensorflow/#more-2660)
 - [(Tut/Blog)khanrc 블로그, TensorFlow-ko](http://khanrc.tistory.com/entry/TensorFlow-1-Intro)
 
 (Topic Specific)
