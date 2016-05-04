@@ -21,6 +21,7 @@ __Note: Good References for ML/DeepL Study__
 - [(MOOC)모두를 위한 머신러닝/딥러닝, Sung Kim](http://hunkim.github.io/ml/)
 - [(Blog/Community)AI KOREA, blogs](http://aikorea.org/blog/)
 - [(Blog/Community)AI KOREA, cs231n-ko](http://aikorea.org/cs231n/)
+- [(Blog) ishuca 블로그, cs231n-ko](http://ishuca.tistory.com/category/CS231n)
 - [(Video)DeepLearning.TV ](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 
 (Advanced)
