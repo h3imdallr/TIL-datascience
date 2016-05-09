@@ -6,7 +6,6 @@ __Note: Good References for ML/DeepL Study__
 - (Python/Book)Effective Python, 파이썬 코딩의 기술
 - (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍
 - [(Web, Python)Full Stack Python](https://www.fullstackpython.com)
-
 - (Scala/Book)Functional Programming in Scala
 - (Scala/Tut)ScalaSchool by Twitter
 
