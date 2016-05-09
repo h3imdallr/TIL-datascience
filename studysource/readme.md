@@ -2,12 +2,15 @@ __Note: Good References for ML/DeepL Study__
 나와 같은 Noob에게 좋은 양질의 소스들.
 
 ## CS for DataScience: Python,Scala,Spark,Hadoop
+(General)
 - (Python/MOOC)Intro to DataAnalysis, Udacity
 - (Python/Book)Effective Python, 파이썬 코딩의 기술
-- (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍
-- [(Web, Python)Full Stack Python](https://www.fullstackpython.com)
+- (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍 
 - (Scala/Book)Functional Programming in Scala
 - (Scala/Tut)ScalaSchool by Twitter
+(Web)
+- [Full Stack Python](https://www.fullstackpython.com)
+- [Flask Tutorial-ko](http://flask-docs-kr.readthedocs.io/ko/latest/index.html)
 
 ## ML General
 - (MOOC)MachineLearning, AndreNg, Coursera
