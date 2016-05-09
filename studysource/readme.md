@@ -8,6 +8,7 @@ __Note: Good References for ML/DeepL Study__
 - (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍 
 - (Scala/Book)Functional Programming in Scala
 - (Scala/Tut)ScalaSchool by Twitter
+
 (Web)
 - [Full Stack Python](https://www.fullstackpython.com)
 - [Flask Tutorial-ko](http://flask-docs-kr.readthedocs.io/ko/latest/index.html)
