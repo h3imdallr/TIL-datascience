@@ -46,6 +46,7 @@ __Note: Good References for ML/DeepL Study__
 - [(Blog/Community)First Contanct with TensorFlow -ko, TensorFlow Korea ](https://tensorflowkorea.wordpress.com/2016/04/28/first-contact-with-tensorflow/#more-2660)
 - [(Tut/Blog)khanrc 블로그, TensorFlow-ko](http://khanrc.tistory.com/entry/TensorFlow-1-Intro)
 - [(Tut/Github)sjcho86](https://github.com/sjchoi86/Tensorflow-101)
+- [(Tut)CodeOnWeb](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
 
 (Topic Specific)
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
