@@ -44,10 +44,10 @@ __Note: Good References for ML/DeepL Study__
 (TensorFlow)
 - [(Tut)CS224d/TensorFlow Tutorial](https://www.youtube.com/watch?v=L8Y2_Cq2X5s)
 - [(Tut)CodeOnWeb](https://codeonweb.com/course/7e8c4944-308e-410e-85aa-644624613741)
-- [(Tut/Book)First Contact with TensorFlow](http://www.jorditorres.org/first-contact-with-tensorflow/) [KOR.Ver](https://tensorflowkorea.wordpress.com/2016/04/28/first-contact-with-tensorflow/#more-2660)
+- (Tut/Book)First Contact with TensorFlow[(ORIG)](http://www.jorditorres.org/first-contact-with-tensorflow/) /  [(KOR)](https://tensorflowkorea.wordpress.com/2016/04/28/first-contact-with-tensorflow/#more-2660)
 - [(Post)TensorFlow 시작하기, 김정주](https://gist.github.com/haje01/202ac276bace4b25dd3f)
 - [(Blog/Community)TensorFlow 튜토리얼, TensorFlow Korea](https://tensorflowkorea.wordpress.com/2015/12/04/텐서플로우-튜토리얼-1/)
-- (Tut/Github)패스트캠퍼스 딥러닝 수업 by sjcho86: [(LEC)](https://github.com/sjchoi86/Deep-Learning-101.git) [TuT](https://github.com/sjchoi86/Tensorflow-101)
+- (Tut/Github)패스트캠퍼스 딥러닝 수업 by sjcho86: [(LEC)](https://github.com/sjchoi86/Deep-Learning-101.git) / [(TuT)](https://github.com/sjchoi86/Tensorflow-101)
 - [(Tut/Blog)khanrc 블로그, TensorFlow-ko](http://khanrc.tistory.com/entry/TensorFlow-1-Intro) 
 
 (Topic Specific)
