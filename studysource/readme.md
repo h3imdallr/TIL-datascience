@@ -20,6 +20,10 @@ __Note: Good References for ML/DeepL Study__
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 
 ## DeepLearning
+(Rudiments)
+- [(Video)Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
+- [(Video)DeepLearning.TV ](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
+
 (Low Hurdle)
 - (MOOC)DeepLearning, google, Udacity
 - [(Blog)README, 전상혁@KAIST ](http://sanghyukchun.github.io)
@@ -27,7 +31,6 @@ __Note: Good References for ML/DeepL Study__
 - [(Blog/Community)AI KOREA, blogs](http://aikorea.org/blog/)
 - [(Blog/Community)AI KOREA, cs231n-ko](http://aikorea.org/cs231n/)
 - [(Blog) ishuca 블로그, cs231n-ko](http://ishuca.tistory.com/category/CS231n)
-- [(Video)DeepLearning.TV ](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
 
 (Advanced)
 - [(Book)Deep Learning Book, Yoshua Bengio, MIT ](http://www.deeplearningbook.org/)
