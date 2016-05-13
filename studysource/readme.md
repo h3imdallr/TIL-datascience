@@ -34,7 +34,7 @@ __Note: Good References for ML/DeepL Study__
 
 (Advanced)
 - [(Book)Deep Learning Book, Yoshua Bengio, MIT ](http://www.deeplearningbook.org/)
-- [(MOOC)CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html)
+- [(MOOC)CS231n: Convolutional Neural Networks for Visual Recognition](http://cs231n.stanford.edu/syllabus.html) / [Blog/Tuts](http://cs231n.github.io)
 - [(MOOC)CS224d: Deep Learning for Natural Language Processing ](http://cs224d.stanford.edu/)
 - [(MOOC)Stat212b: Topics Course on Deep Learning, UC Berkeley, 2016](http://joanbruna.github.io/stat212b/)
 - [(Tut)UFLDL Tutorial,Stanford](http://ufldl.stanford.edu/tutorial/)
