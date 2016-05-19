@@ -21,6 +21,9 @@
 
 - Machine Learing, Michael Littman
 - Deep Learning, google
+    1. [Lecure 1,2: Deep Neural Network](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L2-DeepNeuralNetwork.ipynb)
+    2. Convolutional Neural Networks
+    3. Deep Models for text and Sequences
 
 #### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 #### StudySource: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/studysource)
