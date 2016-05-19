@@ -12,15 +12,15 @@
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
 #### MOOCs- ipynb 정리:
-- Machine Learning, AndrewNg
-- elice.io/KAIST MachineLearning Online Course(interactive coding)
-- Intro to DataAnalysis/Udacity  
+- **Machine Learning, AndrewNg
+- **elice.io/KAIST MachineLearning Online Course(interactive coding)
+- **Intro to DataAnalysis/Udacity  
     1. [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L1_Starter_Code_ymjung.ipynb)  
     2. [Lecture2: Numpy Pandas 1D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L2_NumpynPandas_for_1D.ipynb)
     3. [Lecture3: Numpy Pandas 2D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L3_NumpynPandas_for_2D.ipynb)
 
-- Machine Learing, Michael Littman
-- Deep Learning, google
+- **Machine Learing, Michael Littman
+- **Deep Learning, google
     1. [Lecure 1,2: Deep Neural Network](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L2-DeepNeuralNetwork.ipynb)
     2. Convolutional Neural Networks
     3. Deep Models for text and Sequences
