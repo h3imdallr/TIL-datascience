@@ -26,7 +26,7 @@
     3. Deep Models for text and Sequences
 
 #### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
-#### StudySource: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/studysource)
+#### StudySource: [머신/딥러닝 학습을 위한 자료들 모음](https://github.com/h3imdallr/TIL-datascience/tree/master/studysource)
 
 #### Others:
 - data science workflow(on progress)
