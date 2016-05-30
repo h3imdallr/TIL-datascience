@@ -47,6 +47,7 @@ __Note: Good References for ML/DeepL Study__
 - (Tut/Book)First Contact with TensorFlow: [(ORIG)](http://www.jorditorres.org/first-contact-with-tensorflow/) /  [(KOR)](https://tensorflowkorea.wordpress.com/2016/04/28/first-contact-with-tensorflow/#more-2660)
 - [(Blog/Community)TensorFlow 튜토리얼, TensorFlow Korea](https://tensorflowkorea.wordpress.com/2015/12/04/텐서플로우-튜토리얼-1/)
 - (Tut/Github)패스트캠퍼스 딥러닝 수업 by sjcho86: [(LEC)](https://github.com/sjchoi86/Deep-Learning-101.git) / [(TuT)](https://github.com/sjchoi86/Tensorflow-101)
+- ((Tut)tflearn)[http://tflearn.org]
 - [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
 
 (Topic Specific)
