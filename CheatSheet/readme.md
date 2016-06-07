@@ -1,4 +1,4 @@
-- [Ultimate guide for EDA](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?utm_content=buffer01cc9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+- [Ultimate guide for EDA/AnalyticsVdihya](http://www.analyticsvidhya.com/blog/2015/04/comprehensive-guide-data-exploration-sas-using-python-numpy-scipy-matplotlib-pandas/?utm_content=buffer01cc9&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
 - [Pandas Technique/AnalyticsVidhya](https://www.evernote.com/l/ADDIPkyT7U5COpK05ngiqPxEvnFZBkVO9gE )
 - [Pandas/bsweger](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Useful%20Pandas%20CheatSheet%28Scrap%29.ipynb)
 - [Working with DFs/Greg Reda](http://www.gregreda.com/2013/10/26/working-with-pandas-dataframes/)
