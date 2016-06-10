@@ -1,17 +1,17 @@
 #Today I learned (TIL) on DataScience 
 
-### I. Objectives
+## I. Objectives
 - 셀프스터디 자료 정리 및 재참조
 - 셀프스터디 히스토리 기록
 
-### II. Contents
+## II. Contents
 
-#### Books- ipynb 정리(by myself): 
+### Books- ipynb 정리(by myself): 
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
 - [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
-#### MOOCs- ipynb 정리(by myself):
+### MOOCs- ipynb 정리(by myself):
 - **Machine Learning, AndrewNg**
 - **elice.io/KAIST MachineLearning Online Course(interactive coding)**
 - **Intro to DataAnalysis/Udacity**  
@@ -25,12 +25,12 @@
     2. Convolutional Neural Networks
     3. Deep Models for text and Sequences
 
-#### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
-#### StudySource: 
+### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+### StudySource: 
 __Note: Good References for ML/DeepL Study__  
 나같은 Noob에게 좋은 양질의 소스들.
 
-** CS for DataScience: Python,Scala,Spark,Hadoop **
+#### CS for DataScience: Python,Scala,Spark,Hadoop
 (General)
 - (Python/MOOC)Intro to DataAnalysis, Udacity
 - (Python/Book)Effective Python, 파이썬 코딩의 기술
@@ -42,13 +42,13 @@ __Note: Good References for ML/DeepL Study__
 - [Full Stack Python](https://www.fullstackpython.com)
 - [Flask Tutorial-ko](http://flask-docs-kr.readthedocs.io/ko/latest/index.html)
 
-** ML General **
+#### ML General 
 - (MOOC)MachineLearning, AndreNg, Coursera
 - (MOOC)MachineLearning, Michael Littman, Udacity
 - (MOOC)Intro to DataScience, Udacity
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 
-** DeepLearning **
+#### DeepLearning 
 (Rudiments)
 - [(Video)Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 - [(Video)DeepLearning.TV ](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
@@ -86,11 +86,11 @@ __Note: Good References for ML/DeepL Study__
 - [CNN ](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
 
 
-#### Visualizarion Source: 
+### Visualizarion Source: 
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
 - [chart chooser](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
 
-#### Others:
+### Others:
 - data science workflow(on progress)
 ![workflow](images/analysisprocedure-v1.0.png)
