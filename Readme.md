@@ -6,12 +6,12 @@
 
 ### II. Contents
 
-#### Books- ipynb 정리: 
+#### Books- ipynb 정리(by myself): 
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
 - [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
-#### MOOCs- ipynb 정리:
+#### MOOCs- ipynb 정리(by myself):
 - **Machine Learning, AndrewNg**
 - **elice.io/KAIST MachineLearning Online Course(interactive coding)**
 - **Intro to DataAnalysis/Udacity**  
@@ -26,10 +26,9 @@
     3. Deep Models for text and Sequences
 
 #### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
-#### StudySource: [머신/딥러닝 학습을 위한 자료들 모음](https://github.com/h3imdallr/TIL-datascience/tree/master/studysource)
-
+#### StudySource: 
 __Note: Good References for ML/DeepL Study__  
-나와 같은 Noob에게 좋은 양질의 소스들.
+나같은 Noob에게 좋은 양질의 소스들.
 
 ** CS for DataScience: Python,Scala,Spark,Hadoop **
 (General)
@@ -85,7 +84,6 @@ __Note: Good References for ML/DeepL Study__
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
 - [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KO version](http://whydsp.org/280)
 - [CNN ](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
-
 
 
 #### Visualizarion Source: 
