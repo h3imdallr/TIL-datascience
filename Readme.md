@@ -41,6 +41,9 @@ Note: Good References for ML/DeepL Study
 (Web)
 - [Full Stack Python](https://www.fullstackpython.com)
 - [Flask Tutorial-ko](http://flask-docs-kr.readthedocs.io/ko/latest/index.html)
+- [(MOOC)Creating Web Sites using Python and Flask, DevGeek](https://www.youtube.com/watch?v=M1IVwFAH9Wo)
+- [(MOOC)Flask Tutorial](https://www.youtube.com/playlist?list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
+- [(Tut)The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 #### :::ML General 
 - (MOOC)MachineLearning, AndreNg, Coursera
