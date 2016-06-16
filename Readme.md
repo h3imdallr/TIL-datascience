@@ -85,8 +85,13 @@ Note: Good References for ML/DeepL Study
 
 (Topic Specific)
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
-- [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KO version](http://whydsp.org/280)
+- [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
 - [CNN ](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
+
+#### :::Reinforcement Learning/Human-level intelligence
+- [* Deep Reinforcement Learning: Pong from Pixels from Andrej Karpathy blog](http://karpathy.github.io/2016/05/31/rl/) / [KOR version](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
+- [Deep Reinforcement Learning in TensorFlow](https://github.com/carpedm20/deep-rl-tensorflow)
+- [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
 
 ### Visualizarion Source: 
