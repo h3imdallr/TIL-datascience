@@ -25,9 +25,11 @@
     2. Convolutional Neural Networks
     3. Deep Models for text and Sequences
 
+### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+
+=====
 =====
 
-### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 ### StudySource: 
 Note: Good References for ML/DeepL Study  
 나같은 Noob에게 좋은 양질의 소스들.
