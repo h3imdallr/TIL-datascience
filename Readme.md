@@ -85,7 +85,6 @@ Note: Good References for ML/DeepL Study
 - (Tut/Github)패스트캠퍼스 딥러닝 수업 by sjcho86: [(LEC)](https://github.com/sjchoi86/Deep-Learning-101.git) / [(TuT)](https://github.com/sjchoi86/Tensorflow-101)
 - [(Tut)tflearn](http://tflearn.org)
 - [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
-
 - [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
 - [기타 1 ](http://www.slideshare.net/lovelykihohong/tenforflow-internals)
 
