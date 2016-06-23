@@ -89,11 +89,13 @@ Note: Good References for ML/DeepL Study
 - [기타 1 ](http://www.slideshare.net/lovelykihohong/tenforflow-internals)
 
 (Topic Specific)
+- [(Tut)RNN 1~4 by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
 - [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
 - [CNN ](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
 - [(Articles)Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 - [(Articles)10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
+- [(Article) An Overview of Optimization Algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
 
 #### :::Reinforcement Learning/Human-level intelligence
 - [* Deep Reinforcement Learning: Pong from Pixels from Andrej Karpathy blog](http://karpathy.github.io/2016/05/31/rl/) / [KOR version](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
