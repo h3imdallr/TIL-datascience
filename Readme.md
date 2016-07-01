@@ -12,7 +12,7 @@
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
 ### MOOCs- ipynb 정리(by myself):
-- **Machine Learning, AndrewNg**  [(ourse notes)](http://www.holehouse.org/mlclass/)
+- **Machine Learning, AndrewNg**  [(Course notes)](http://www.holehouse.org/mlclass/)
 - **elice.io/KAIST MachineLearning Online Course(interactive coding)**
 - **Intro to DataAnalysis/Udacity**  
     1. [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L1_Starter_Code_ymjung.ipynb)  
