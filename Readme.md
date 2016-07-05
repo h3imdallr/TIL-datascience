@@ -108,6 +108,9 @@ Note: Good References for ML/DeepL Study
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
 - [chart chooser](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
+- [Infographic maker/ infogram](https://infogr.am/) 
+- [Infographic maker/ venngage ](https://venngage.com)
+
 
 ### Others:
 - data science workflow(on progress)
