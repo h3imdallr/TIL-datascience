@@ -85,15 +85,13 @@ Note: Good References for ML/DeepL Study
 - [(Blog/Community)TensorFlow 튜토리얼, TensorFlow Korea](https://tensorflowkorea.wordpress.com/2015/12/04/텐서플로우-튜토리얼-1/)
 - (Tut/Github)패스트캠퍼스 딥러닝 수업 by sjcho86: [(LEC)](https://github.com/sjchoi86/Deep-Learning-101.git) / [(TuT)](https://github.com/sjchoi86/Tensorflow-101)
 - [(Tut)tflearn](http://tflearn.org)
-- [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
-- [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
 - [기타 1 ](http://www.slideshare.net/lovelykihohong/tenforflow-internals)
 
 (Topic Specific)
 - [(Tut)RNN 1~4 by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
-- [RNN: LSTM](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
-- [CNN ](http://ufldl.stanford.edu/tutorial/supervised/ConvolutionalNeuralNetwork/)
+- [RNN: LSTM by colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
+- [CNN by wildML ](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)
 - [(Articles)Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 - [(Articles)10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 - [(Article) An Overview of Optimization Algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
@@ -104,7 +102,9 @@ Note: Good References for ML/DeepL Study
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
 #### ::::Fun Projects
+- [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
 - [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+- [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
 
 
 
