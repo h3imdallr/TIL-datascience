@@ -103,6 +103,11 @@ Note: Good References for ML/DeepL Study
 - [Deep Reinforcement Learning in TensorFlow](https://github.com/carpedm20/deep-rl-tensorflow)
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
+#### ::::Fun Projects
+- [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+
+
+
 
 ### Visualizarion Source: 
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
@@ -110,7 +115,6 @@ Note: Good References for ML/DeepL Study
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
 - [Infographic maker/ infogram](https://infogr.am/) 
 - [Infographic maker/ venngage ](https://venngage.com)
-
 
 ### Others:
 - data science workflow(on progress)
