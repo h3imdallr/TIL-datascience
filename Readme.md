@@ -90,12 +90,12 @@ Note: Good References for ML/DeepL Study
 (Topic Specific)  
 
 //CNN
-- [RNN & CNN](http://sanghyukchun.github.io/75/)
+- [RNN & CNN by readme blog](http://sanghyukchun.github.io/75/)
 - [CNN by wildML ](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)  
 
 //RNN
 - [RNN: LSTM by colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
-- [RNN: The Unreasonable Effectiveness of Recurrent Neural Networks](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+- [RNN: The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [(Tut)RNN 1~4 by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
 
 //ETC
