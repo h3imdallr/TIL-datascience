@@ -100,6 +100,7 @@ Note: Good References for ML/DeepL Study
 - [RNN by deeplearning4j](http://deeplearning4j.org/kr-lstm)
 
 //ETC
+- [2016 PyCON](https://tensorflowkorea.wordpress.com/2016/06/13/pycon-2016-전체-동영상/)
 - [(Articles)Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 - [(Articles)10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
 - [(Article) An Overview of Optimization Algorithms](http://sebastianruder.com/optimizing-gradient-descent/)
