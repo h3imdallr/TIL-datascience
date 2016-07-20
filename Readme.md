@@ -88,6 +88,7 @@ Note: Good References for ML/DeepL Study
 - [기타 1 ](http://www.slideshare.net/lovelykihohong/tenforflow-internals)
 
 (Topic Specific)  
+
     /CNN
 - [RNN & CNN](http://sanghyukchun.github.io/75/)
 - [CNN by wildML ](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)  
