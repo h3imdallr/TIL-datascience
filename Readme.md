@@ -90,7 +90,7 @@ Note: Good References for ML/DeepL Study
 (Topic Specific)  
 
 //CNN
-- [RNN & CNN by readme blog](http://sanghyukchun.github.io/75/)
+- [CNN by readme blog](http://sanghyukchun.github.io/75/)
 - [CNN by wildML ](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)  
 
 //RNN
