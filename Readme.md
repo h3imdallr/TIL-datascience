@@ -48,7 +48,7 @@ Note: Good References for ML/DeepL Study
 - [Flask Tutorial-ko](http://flask-docs-kr.readthedocs.io/ko/latest/index.html)
 - [(MOOC)Practical Flask Web Development Tutorials](https://www.youtube.com/playlist?list=PLQVvvaa0QuDc_owjTbIY4rbgXOFkUYOUB)
 - [(MOOC)Flask Tutorial](https://www.youtube.com/playlist?list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
-- [(MOOCs)Creating Web Sites using Python and Flask](https://www.youtube.com/watch?v=6HQiKzxzkAM)
+- [(MOOCs)Creating Web Sites using Python and Flask/ from Zero to Hero](https://www.youtube.com/watch?v=6HQiKzxzkAM)
 - [(Tut)The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
 #### :::ML General 
