@@ -108,7 +108,7 @@ Note: Good References for ML/DeepL Study
 
 #### :::Reinforcement Learning/Human-level intelligence
 - [* Deep Reinforcement Learning: Pong from Pixels from Andrej Karpathy blog](http://karpathy.github.io/2016/05/31/rl/) / [KOR version](http://keunwoochoi.blogspot.kr/2016/06/andrej-karpathy.html)
-- [Deep Reinforcement Learning in TensorFlow](https://github.com/carpedm20/deep-rl-tensorflow)
+- [Deep-RL-tensorflow/김태훈님 github](https://github.com/carpedm20/deep-rl-tensorflow) / (slides)[http://www.slideshare.net/carpedm20/presentations]
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
 #### ::::Fun Projects
