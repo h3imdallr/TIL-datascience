@@ -25,6 +25,8 @@
     2. [Deep Neural Network (2/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L3-Regularizatoin.ipynb)
     2. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
     3. Deep Models for text and Sequences
+        3.a. [Word2Vec-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L5-word2vec.ipynb)
+        3.b. [LSTM-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L6-LSTM.ipynb)
 
 ### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 
@@ -90,17 +92,17 @@ Note: Good References for ML/DeepL Study
 
 (Topic Specific)  
 
-//CNN
+**//CNN **
 - [CNN by readme blog](http://sanghyukchun.github.io/75/)
 - [CNN by wildML ](http://www.wildml.com/2015/11/understanding-convolutional-neural-networks-for-nlp/)  
 
-//RNN
+**//RNN **
 - [RNN: LSTM by colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
 - [RNN: The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
 - [(Tut)RNN 1~4 by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
 - [RNN by deeplearning4j](http://deeplearning4j.org/kr-lstm)
 
-//ETC
+**//ETC**
 - [2016 PyCON](https://tensorflowkorea.wordpress.com/2016/06/13/pycon-2016-전체-동영상/)
 - [(Articles)Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
 - [(Articles)10 misconceptions about Neural Networks](http://www.turingfinance.com/misconceptions-about-neural-networks/)
