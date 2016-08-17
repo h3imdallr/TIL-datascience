@@ -25,8 +25,8 @@
     2. [Deep Neural Network (2/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L3-Regularizatoin.ipynb)
     2. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
     3. Deep Models for text and Sequences  
-        3.a. [Word2Vec-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L5-word2vec.ipynb)  
-        3.b. [LSTM-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L6-LSTM.ipynb)  
+        iv.a. [Word2Vec-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L5-word2vec.ipynb)  
+        iv.b. [LSTM-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L6-LSTM.ipynb)  
 
 ### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 
