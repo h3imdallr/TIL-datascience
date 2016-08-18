@@ -121,13 +121,18 @@ Note: Good References for ML/DeepL Study
 - [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
 - [(Pycon APAC2016)](https://www.pycon.kr/2016apac/program/list/)
 
-(*** CHAT BOT)
+**(NLP/CHATBOT)**
 - [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 - [BUILDING A CONVERSATIONAL TENSORFLOW MODEL](http://lauragelston.ghost.io/speakeasy-pt2/)
 - 모두를위한 딥러닝 Season2. chatbot
 - [Building AI Chat bot using Python 3 & TensorFlow/ 신정규, 파이콘2016](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
-- [End-to-End Memory Networks/김태훈, tensorflowkorea talk](http://www.slideshare.net/carpedm20/ss-63116251) / [github codes](https://github.com/carpedm20/MemN2N-tensorflow)
-
+// Devsister 김태훈님 자료
+- [End-to-End Memory Networks @ tensorflowkorea talk](http://www.slideshare.net/carpedm20/ss-63116251) / [github codes](https://github.com/carpedm20/MemN2N-tensorflow)
+- [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
+- [Character-level Language Models](https://github.com/carpedm20/lstm-char-cnn-tensorflow)
+- [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
+- [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
+- [Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
 
 
 ### Visualizarion Source: 
