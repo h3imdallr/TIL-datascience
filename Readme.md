@@ -125,7 +125,8 @@ Note: Good References for ML/DeepL Study
 - [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 - [BUILDING A CONVERSATIONAL TENSORFLOW MODEL](http://lauragelston.ghost.io/speakeasy-pt2/)
 - 모두를위한 딥러닝 Season2. chatbot
-- [Building AI Chat bot using Python 3 & TensorFlow/ 신정규, 파이콘2016](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
+- [Building AI Chat bot using Python 3 & TensorFlow/ 신정규, 파이콘2016](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)  
+
 // Devsister 김태훈님 자료
 - [End-to-End Memory Networks @ tensorflowkorea talk](http://www.slideshare.net/carpedm20/ss-63116251) / [github codes](https://github.com/carpedm20/MemN2N-tensorflow)
 - [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
