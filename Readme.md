@@ -114,7 +114,7 @@ Note: Good References for ML/DeepL Study
 - [Deep-RL-tensorflow/김태훈님 github](https://github.com/carpedm20/deep-rl-tensorflow) / [slides](http://www.slideshare.net/carpedm20/presentations)
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
-#### ::::Projects
+#### ::::Projects to remark
 
 (Micellaneous)
 - [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
@@ -122,6 +122,7 @@ Note: Good References for ML/DeepL Study
 - [(Pycon APAC2016)](https://www.pycon.kr/2016apac/program/list/)
 (VISION)
 - [이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델](http://carpedm20.github.io/faces/)/ [github](https://github.com/carpedm20/DCGAN-tensorflow)
+- [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 
 (NLP/CHATBOT)
 - [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
@@ -129,7 +130,7 @@ Note: Good References for ML/DeepL Study
 - 모두를위한 딥러닝 Season2. chatbot
 - [Building AI Chat bot using Python 3 & TensorFlow/ 신정규, 파이콘2016](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)  
 
-// Devsister 김태훈님 자료
+    //// Devsister 김태훈님 자료
 - [FB chatbot](https://github.com/carpedm20/fbchat)
 - [End-to-End Memory Networks @ tensorflowkorea talk](http://www.slideshare.net/carpedm20/ss-63116251) / [github codes](https://github.com/carpedm20/MemN2N-tensorflow)
 - [Question Answering, Language Model](https://github.com/carpedm20/MemN2N-tensorflow)
