@@ -115,11 +115,17 @@ Note: Good References for ML/DeepL Study
 - [Human-Level Control through Deep Reinforcement Learning](https://github.com/devsisters/DQN-tensorflow)
 
 #### ::::Fun Projects
+
+(Projects Pool)
 - [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
-- [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
 - [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
 - [(Pycon APAC2016)](https://www.pycon.kr/2016apac/program/list/)
 
+(*** CHAT BOT)
+- [Chatbot by wildML](http://www.wildml.com/2016/04/deep-learning-for-chatbots-part-1-introduction/)
+- [BUILDING A CONVERSATIONAL TENSORFLOW MODEL](http://lauragelston.ghost.io/speakeasy-pt2/)
+- 모두를위한 딥러닝 Season2. chatbot
+- [Building AI Chat bot using Python 3 & TensorFlow/ 신정규, 파이콘2016](https://speakerdeck.com/inureyes/building-ai-chat-bot-using-python-3-and-tensorflow)
 
 
 
