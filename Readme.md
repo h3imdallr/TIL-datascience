@@ -134,7 +134,7 @@ Note: Good References for ML/DeepL Study
 - [Teaching Machines to Read and Comprehend](https://github.com/carpedm20/attentive-reader-tensorflow)
 - [Neural Variational Inference for Text Processing](https://github.com/carpedm20/variational-text-tensorflow)
 - [Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
-
+- [Neural Abstractive Summarization](https://github.com/carpedm20/neural-summary-tensorflow)
 
 ### Visualizarion Source: 
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
