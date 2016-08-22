@@ -100,7 +100,8 @@ Note: Good References for ML/DeepL Study
 **//RNN**
 - [RNN: LSTM by colah](http://colah.github.io/posts/2015-08-Understanding-LSTMs/) / [KOR version](http://whydsp.org/280)
 - [RNN: The Unreasonable Effectiveness of Recurrent Neural Networks by Andrej Karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
-- [(Tut)RNN 1~4 by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
+- [(Tut)RNN with Theano by wildML (ko)](http://aikorea.org/blog/rnn-tutorial-1/)
+- [(Tut)RNN with Tensorflow by wildML (en)](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 - [RNN by deeplearning4j](http://deeplearning4j.org/kr-lstm)
 
 **//ETC**
