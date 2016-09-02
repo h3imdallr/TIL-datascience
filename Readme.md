@@ -141,12 +141,14 @@ Note: Good References for ML/DeepL Study
 - [Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
 - [Neural Abstractive Summarization](https://github.com/carpedm20/neural-summary-tensorflow)
 
-### Visualizarion Source: 
+### Data Visualizarion : 
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
 - [chart chooser](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
 - [Infographic maker/ infogram](https://infogr.am/) 
 - [Infographic maker/ venngage ](https://venngage.com)
+- [(blog)Flowing Data](http://flowingdata.com/): good visusalization cases feeds
+
 
 ### Others:
 - data science workflow(on progress)
