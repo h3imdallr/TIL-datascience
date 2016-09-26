@@ -53,6 +53,9 @@ Note: Good References for ML/DeepL Study
 - [(MOOC)Flask Tutorial](https://www.youtube.com/playlist?list=PLei96ZX_m9sWQco3fwtSMqyGL-JDQo28l)
 - [(Tut)The Flask Mega Tutorial](http://blog.miguelgrinberg.com/post/the-flask-mega-tutorial-part-i-hello-world)
 
+#### ::::Basic Statistics
+- [MITx: 6.008.1x Computational Probability and Inference](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/courseware/Introduction/Course_Overview/)  
+  
 #### :::ML General 
 - (MOOC)MachineLearning, AndreNg, Coursera
 - (MOOC)MachineLearning, Michael Littman, Udacity
