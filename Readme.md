@@ -61,6 +61,7 @@ Note: Good References for ML/DeepL Study
 - (MOOC)MachineLearning, Michael Littman, Udacity
 - (MOOC)Intro to DataScience, Udacity
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
+- [데이터 싸이언스 스쿨](https://www.datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/)
 
 #### :::DeepLearning 
 (Rudiments)
