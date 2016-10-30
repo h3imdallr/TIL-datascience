@@ -108,6 +108,10 @@ Note: Good References for ML/DeepL Study
 - [(Tut)RNN with Tensorflow by wildML (en)](http://www.wildml.com/2016/08/rnns-in-tensorflow-a-practical-guide-and-undocumented-features/)
 - [RNN by deeplearning4j](http://deeplearning4j.org/kr-lstm)
 
+**//TEXT Mining **
+- [ Tutorial by Lucy Park ](https://www.lucypark.kr/courses/2015-ba/ )
+- [ Pycon2016, 스뉴잼  ](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be )
+
 **//ETC**
 - [2016 PyCON](https://tensorflowkorea.wordpress.com/2016/06/13/pycon-2016-전체-동영상/)
 - [(Articles)Neural Network Architectures](http://culurciello.github.io/tech/2016/06/04/nets.html)
