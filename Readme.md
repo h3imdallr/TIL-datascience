@@ -109,8 +109,8 @@ Note: Good References for ML/DeepL Study
 - [RNN by deeplearning4j](http://deeplearning4j.org/kr-lstm)
 
 **//TEXT Mining **
-- [ Tutorial by Lucy Park ](https://www.lucypark.kr/courses/2015-ba/ )
-- [ Pycon2016, 스뉴잼  ](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be )
+- [ Tutorial 박은정님 튜토리얼 자료 ](https://www.lucypark.kr/courses/2015-ba/ )
+- [ Pycon2016, 뉴스잼 ](https://www.youtube.com/watch?v=Txj4MzqL_Mk&feature=youtu.be )
 
 **//ETC**
 - [2016 PyCON](https://tensorflowkorea.wordpress.com/2016/06/13/pycon-2016-전체-동영상/)
