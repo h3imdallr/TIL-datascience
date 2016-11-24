@@ -62,7 +62,7 @@ Note: Good References for ML/DeepL Study
 - (MOOC)Intro to DataScience, Udacity
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 - [데이터 싸이언스 스쿨](https://www.datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/)
-- [텐서플로우코리아/해커를 위한 머신러링](https://tensorflow.blog/2016/10/31/해커에게-전해들은-머신러닝/):  [#1](https://tensorflow.blog/해커에게-전해들은-머신러닝-1/)/[#2](https://tensorflow.blog/해커에게-전해들은-머신러닝-2/)/[#3](https://tensorflow.blog/해커에게-전해들은-머신러닝-3/)/[#4](https://tensorflow.blog/해커에게-전해들은-머신러닝-4/)
+- [텐서플로우코리아/해커게에 전해들은 머신러링](https://tensorflow.blog/2016/10/31/해커에게-전해들은-머신러닝/):  [#1](https://tensorflow.blog/해커에게-전해들은-머신러닝-1/)/[#2](https://tensorflow.blog/해커에게-전해들은-머신러닝-2/)/[#3](https://tensorflow.blog/해커에게-전해들은-머신러닝-3/)/[#4](https://tensorflow.blog/해커에게-전해들은-머신러닝-4/)
 
 #### :::DeepLearning 
 (Rudiments)
