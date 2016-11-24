@@ -1,4 +1,4 @@
-#Today I learned (TIL) on DataScience 
+#Today I learned on DataScience 
 
 ## I. Objectives
 - 셀프스터디 자료 정리 및 재참조
