@@ -6,12 +6,12 @@
 
 ## II. Contents
 
-### Books- ipynb 정리(by myself): 
+### Books- ipynb 정리(by h3imdallr): 
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
 - [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
-### MOOCs- ipynb 정리(by myself):
+### MOOCs- ipynb 정리(by h3imdallr):
 - **Machine Learning, AndrewNg**  [(Course notes)](http://www.holehouse.org/mlclass/)
 - **elice.io/KAIST MachineLearning Online Course(interactive coding)**
 - **Intro to DataAnalysis/Udacity**  
@@ -62,6 +62,7 @@ Note: Good References for ML/DeepL Study
 - (MOOC)Intro to DataScience, Udacity
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 - [데이터 싸이언스 스쿨](https://www.datascienceschool.net/view-notebook/661128713b654edc928ecb455a826b1d/)
+- [텐서플로우코리아/해커를 위한 머신러링](https://tensorflow.blog/2016/10/31/해커에게-전해들은-머신러닝/):  [#1](https://tensorflow.blog/해커에게-전해들은-머신러닝-1/)/[#2](https://tensorflow.blog/해커에게-전해들은-머신러닝-2/)/[#3](https://tensorflow.blog/해커에게-전해들은-머신러닝-3/)/[#4](https://tensorflow.blog/해커에게-전해들은-머신러닝-4/)
 
 #### :::DeepLearning 
 (Rudiments)
