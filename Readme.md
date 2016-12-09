@@ -12,28 +12,22 @@
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
 ### MOOCs- ipynb 정리(by h3imdallr):
-- **Machine Learning, AndrewNg**  [(Course notes)](http://www.holehouse.org/mlclass/)
-- **elice.io/KAIST MachineLearning Online Course(interactive coding)**
-- **Intro to DataAnalysis/Udacity**  
+-   **Machine Learning, AndrewNg**  [(Course notes)](http://www.holehouse.org/mlclass/)
+-   **elice.io/KAIST MachineLearning Online Course(interactive coding)**
+-   **Intro to DataAnalysis/Udacity**  
     1. [Lecture1: getting started](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L1_Starter_Code_ymjung.ipynb)  
     2. [Lecture2: Numpy Pandas 1D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L2_NumpynPandas_for_1D.ipynb)
     3. [Lecture3: Numpy Pandas 2D](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/L3_NumpynPandas_for_2D.ipynb)
 
-- **Machine Learing, Michael Littman**
-- **Deep Learning, google**
+-   **Machine Learing, Michael Littman**
+-   **Deep Learning, google**
     1. [Deep Neural Network(1/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L2-DeepNeuralNetwork.ipynb)
     2. [Deep Neural Network (2/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L3-Regularizatoin.ipynb)
-<<<<<<< HEAD
     3. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
-    4. Deep Models for text and Sequences
-=======
-    2. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
-    3. Deep Models for text and Sequences  
+    4. Deep Models for text and Sequences  
         iv.a. [Word2Vec-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L5-word2vec.ipynb)  
         iv.b. [LSTM-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L6-LSTM.ipynb)  
->>>>>>> origin/master
-
-### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+### Python DataAnalysis CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 
 
 =====
@@ -61,7 +55,7 @@ Note: Good References for ML/DeepL Study
 
 #### ::::Basic Statistics
 - [MITx: 6.008.1x Computational Probability and Inference](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/courseware/Introduction/Course_Overview/)  
-  
+
 #### :::ML General 
 - (MOOC)MachineLearning, AndreNg, Coursera
 - (MOOC)MachineLearning, Michael Littman, Udacity
@@ -145,7 +139,7 @@ Note: Good References for ML/DeepL Study
 - [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
 - [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
 - [(Pycon APAC2016)](https://www.pycon.kr/2016apac/program/list/)
-(VISION)
+  (VISION)
 - [이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델](http://carpedm20.github.io/faces/)/ [github](https://github.com/carpedm20/DCGAN-tensorflow)
 - [A guide to convolution arithmetic for deep learning](https://tensorflowkorea.wordpress.com/a-guide-to-convolution-arithmetic-for-deep-learning/)
 
