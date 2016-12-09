@@ -1,4 +1,4 @@
-#Today I learned on DataScience 
+#Today I learned on DataScience
 
 ## I. Objectives
 - 셀프스터디 자료 정리 및 재참조
@@ -6,9 +6,9 @@
 
 ## II. Contents
 
-### Books- ipynb 정리(by h3imdallr): 
+### Books- ipynb 정리(by h3imdallr):
 - [Basic Statistics ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/Basic%20Statistics.ipynb ): Central Tendencies, Dispersion, Correlation, Simpsons' Paradox, Causation
-- [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging 
+- [Data Preparation ](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DataPreparation.ipynb): Loading, Cleaning, Transforming and Rearranging
 - [GroupOperation](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/GroupOperation.ipynb) (On Progress):
 
 ### MOOCs- ipynb 정리(by h3imdallr):
@@ -27,13 +27,15 @@
     4. Deep Models for text and Sequences  
         iv.a. [Word2Vec-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L5-word2vec.ipynb)  
         iv.b. [LSTM-incomplete](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L6-LSTM.ipynb)  
+
+
 ### Python DataAnalysis CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
 
 
 =====
 =====
 
-## III. StudySource: 
+## III. StudySource:
 Note: Good References for ML/DeepL Study  
 나같은 Noob에게 좋은 양질의 소스들.
 
@@ -41,7 +43,7 @@ Note: Good References for ML/DeepL Study
 (General)
 - (Python/MOOC)Intro to DataAnalysis, Udacity
 - (Python/Book)Effective Python, 파이썬 코딩의 기술
-- (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍 
+- (Python/Book)The Hacker's Guide to Python, 실전 파이썬 프로그래밍
 - (Scala/Book)Functional Programming in Scala
 - (Scala/Tut)ScalaSchool by Twitter
 
@@ -56,7 +58,7 @@ Note: Good References for ML/DeepL Study
 #### ::::Basic Statistics
 - [MITx: 6.008.1x Computational Probability and Inference](https://courses.edx.org/courses/course-v1:MITx+6.008.1x+3T2016/courseware/Introduction/Course_Overview/)  
 
-#### :::ML General 
+#### :::ML General
 - (MOOC)MachineLearning, AndreNg, Coursera
 - (MOOC)MachineLearning, Michael Littman, Udacity
 - (MOOC)Intro to DataScience, Udacity
@@ -72,7 +74,7 @@ Note: Good References for ML/DeepL Study
 
 
 
-#### :::DeepLearning 
+#### :::DeepLearning
 
 (Rudiments)
 - [(Video)Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
@@ -137,7 +139,7 @@ Note: Good References for ML/DeepL Study
 
 (Micellaneous)
 - [(Conference)텐서플로우코리아 Talk (2016.6.18)](https://www.facebook.com/notes/255834461424286/TensorFlow%20KR%20첫%20모임%20발표자료/298998370441228/)
-- [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/) 
+- [(Project Library)Awesome TensorFlow](https://github.com/jtoy/awesome-tensorflow/)
 - [(Pycon APAC2016)](https://www.pycon.kr/2016apac/program/list/)
   (VISION)
 - [이미지(사람의 얼굴 사진)을 이해하고 스스로 만드는 모델](http://carpedm20.github.io/faces/)/ [github](https://github.com/carpedm20/DCGAN-tensorflow)
@@ -159,11 +161,11 @@ Note: Good References for ML/DeepL Study
 - [Text-based Games using Deep Reinforcement Learning](https://github.com/carpedm20/text-based-game-rl-tensorflow)
 - [Neural Abstractive Summarization](https://github.com/carpedm20/neural-summary-tensorflow)
 
-### Data Visualizarion : 
+### Data Visualizarion :
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
 - [chart chooser](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
-- [Infographic maker/ infogram](https://infogr.am/) 
+- [Infographic maker/ infogram](https://infogr.am/)
 - [Infographic maker/ venngage ](https://venngage.com)
 - [(blog)Flowing Data](http://flowingdata.com/): good visusalization cases feeds
 
