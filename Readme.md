@@ -23,10 +23,11 @@
 - **Deep Learning, google**
     1. [Deep Neural Network(1/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L2-DeepNeuralNetwork.ipynb)
     2. [Deep Neural Network (2/2)](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L3-Regularizatoin.ipynb)
-    2. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
-    3. Deep Models for text and Sequences
+    3. [Convolutional Neural Networks](http://nbviewer.jupyter.org/github/h3imdallr/TIL-datascience/blob/master/ipynb_gitHub/DeepGG-L4-convolutionNets.ipynb)
+    4. Deep Models for text and Sequences
 
 ### CheatSheets: [Link](https://github.com/h3imdallr/TIL-datascience/tree/master/CheatSheet)
+
 
 =====
 =====
@@ -57,7 +58,16 @@ Note: Good References for ML/DeepL Study
 - (MOOC)Intro to DataScience, Udacity
 - [(Blog/Book) 머신러닝에서 딥러닝까지, Deepcumen ](http://deepcumen.com)
 
+
+#### ::: Time Series Analysis
+
+* Tutorial on Time Sereis - Analytics Vidhya [[1]](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/) [[2]](https://www.analyticsvidhya.com/blog/2016/02/time-series-forecasting-codes-python/)
+* [시계열분석-데이터사이언스 스쿨](https://www.datascienceschool.net/view-notebook/e0c935b3f55c4302b0fb0c93986562cd/)
+
+
+
 #### :::DeepLearning 
+
 (Rudiments)
 - [(Video)Neural Networks Demystified](https://www.youtube.com/watch?v=bxe2T-V8XRs)
 - [(Video)DeepLearning.TV ](https://www.youtube.com/channel/UC9OeZkIwhzfv-_Cb7fCikLQ)
@@ -128,4 +138,4 @@ Note: Good References for ML/DeepL Study
 
 ### Others:
 - data science workflow(on progress)
-![workflow](images/analysisprocedure-v1.0.png)
+  ![workflow](images/analysisprocedure-v1.0.png)
