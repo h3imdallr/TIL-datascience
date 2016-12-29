@@ -2,7 +2,7 @@
 
 ## I. Objectives
 - 셀프스터디 자료 정리 및 재참조
-- 셀프스터디 히스토리 기록
+- 셀프스터디 히스토리 
 
 ## II. Contents
 
@@ -36,8 +36,7 @@
 =====
 
 ## III. StudySource:
-Note: Good References for ML/DeepL Study  
-나같은 Noob에게 좋은 양질의 소스들.
+Note: Good References for ML/DeepL Study I went through.
 
 #### :::CS for DataScience: Python,Scala,Spark,Hadoop
 (General)
