@@ -164,8 +164,9 @@ Note: Good References for ML/DeepL Study I went through.
 - [data viz catalogue](http://www.datavizcatalogue.com/?)
 - [chart chooser](http://extremepresentation.typepad.com/blog/2006/09/choosing_a_good.html)
 - [slide chooser](http://extremepresentation.typepad.com/blog/2015/01/announcing-the-slide-chooser.html?utm_content=bufferd402d&utm_medium=social&utm_source=twitter.com&utm_campaign=buffer)  
-- [Infographic maker/ infogram](https://infogr.am/)
-- [Infographic maker/ venngage ](https://venngage.com)
+- [Graphic Continum](http://www.scribblelive.com/blog/2014/10/01/graphic-continuum/)
+- [Visual Vocabulary](https://github.com/ft-interactive/chart-doctor/blob/master/visual-vocabulary/Visual-vocabulary.pdf)
+- [News Jelly](https://docs.google.com/spreadsheets/d/16Ii3pdCdVuKO4wrTJmKPLERGb-6L9OB6eX-DzwREqT4/edit#gid=0)
 - [(blog)Flowing Data](http://flowingdata.com/): good visusalization cases feeds
 
 
